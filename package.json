@@ -1,0 +1,12 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "A project management application for beginners",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
